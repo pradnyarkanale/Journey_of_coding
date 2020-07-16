@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
     -how a novice coder ascends learning right from the basics facing challenges 
     -solutions to the problems faced during the same (for fellow novice coders ;) ) 
     -relatable discussions at the intersection of programming languages, softwares for different purposes, web-dev AND "big buzzwords" !
-theme: minima
+theme: jekyll-theme-minimal
 # social links
 twitter_username: pradnyarkanale # DO NOT include the @ character, or else the build will fail!
 github_username:  pradnyarkanale # DO NOT include the @ character, or else the build will fail!
