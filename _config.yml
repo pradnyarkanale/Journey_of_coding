@@ -1,13 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Journey_of_coding
+author: Pradnya R K
+email: pradnyarkanale@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  This website is all about:-
+    -how a novice coder ascends learning right from the basics facing challenges 
+    -solutions to the problems faced during the same (for fellow novice coders ;) ) 
+    -relatable discussions at the intersection of programming languages, softwares for different purposes, web-dev AND "big buzzwords" !
+theme: minima
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
-
+twitter_username: pradnyarkanale # DO NOT include the @ character, or else the build will fail!
+github_username:  pradnyarkanale # DO NOT include the @ character, or else the build will fail!
+instagram_username: pradnyarkanale
 show_excerpts: true # set to false to remove excerpts on the homepage
